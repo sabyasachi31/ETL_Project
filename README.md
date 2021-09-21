@@ -20,6 +20,7 @@ Storing Data:
 The data is quite uniform and consistent. So, we will be using SQL.
 
 Files:
+
 cities1500.csv and Average Temperature of Cities.csv are the datasets on average world city temperatures that we retrieved from Kaggle.com.
 
 country_code.csv is the dataset laying out the country codes for each of the cities.
